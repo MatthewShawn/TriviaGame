@@ -1,0 +1,26 @@
+.timer-title {
+    display: flex;
+    justify-content: center;
+}
+
+#timer-sec {
+    display: flex;
+    justify-content: center;
+    font-size: 125%;
+}
+
+.answer {
+    width: 50%;
+}
+
+#answer-field {
+    /*display: flex;*/
+    text-align: center;
+    /*margin-left: 35%;*/
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
